@@ -110,7 +110,7 @@ Micro Services
 # Container Services
 
 - Container tiny vms??
-- used to run micro Service
+- used to run micro Service/ docker images
 - EC2 instance
 - POD is used for network and allows communication
 - POD is equivalent to vpc (network purposes)
